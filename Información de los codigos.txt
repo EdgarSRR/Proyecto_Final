@@ -1,0 +1,49 @@
+			Manual de Usuario
+1) histo1D.m
+	En este entorno se encuentra el despliegue de una imagen de arroz en el plano RGB con su respectivo histograma
+
+2) Planos.m
+ 	En este entorno de trabajo encontramos perfiles de lineas para dos tipos de arroz diferentes (arborio y jasmine)
+
+3) Canales.m
+	Aquí puedes encontrar varias operaciones para el realce de imagenes, en este caso se utiliza solo una imagen del arroz tipo arborio
+
+4) Lookuptable.m
+	En este entorno puedes encontrar la imagen procesada con diferentes efectos aplicados.
+
+5) convolucion1D.m
+	En este scrib encontraras la convolución de una imagen de arroz tipo jasmine y los perfiles de linea en los diferentes desperfectos de la imagen
+
+6) convolucion2D.m
+	Aquí encontraras el procesameinto de dos tipos de arroz, aplicando convolución 2D y un filtro de altas frecuencias
+
+7) fespacialNoLineal.m
+	En este scrib encontraras una forma de aplicar freciencia espacial No Lineal a imagenes.
+
+8) Punto_normalizacion.m
+	En este scrib encontraras la visualización de una imagen y sus puntos normalizados
+
+9) S1_Oper_Morfologicas.m
+	En este scrib encontraras la forma de realizar operaciones morfologicas (Erosión, dilatación, apertura, cierre); 
+	particularmente estas se aplican al diferentes imagenes de arroz.
+
+10) S2_Esquel_Puntas.m
+	En este scrib encontraras la forma de obtener el esqueleto de una imagen y el conteo de esquinas o puntas de cualquier imagen
+
+11) S3_Reconocimiento_patrones.m
+	En este scrib encontraras los codigos para extraer patrones y caracteristicas de imagenes.
+	En este caso se aplicoron los codigos a imagenes de arroz.
+
+12) Extracción_de_Caracteristicas.m
+	En este scrib encontraras los codigos para extraer algunas caracteristicas particulares de imagenes de 5 tipos de arroz
+
+13) RF_model_2_completo.m
+	Este scrib contienen la configuración de un modelo Random Forest, con el cual se obtuvo un 97% de efectividad.
+
+14) RD_model_2_completo.m
+	Este scrib contiene la configuración de una red neuronal con la cual se logro obtener un 97,8% de efectividad.
+
+
+
+
+
